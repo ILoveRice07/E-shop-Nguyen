@@ -28,7 +28,21 @@ a {
     color: #76ABAE;
 }
 
-.popular-category {
+#categories {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: #76ABAE;
+}
+
+#deals {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #76ABAE;
+}
+.clothing-categories, .deals-text {
+    text-align: center;
+}
+
+#about {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #76ABAE;
+    text-align: center;
 }
