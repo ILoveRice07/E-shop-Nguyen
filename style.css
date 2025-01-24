@@ -9,9 +9,10 @@ a {
 
 .d-blockw-100 {
     height: 400px;
-    width: 1300px;
-    margin-left: 300px;
+    width: 1200px;
+    margin-left: 350px;
     margin-right: auto;
+    object-fit: cover;
 }
 
 .carousel-control-prev {
@@ -60,8 +61,8 @@ a {
 }
 
 .category-shirts {
-    margin-left: 1450px;
-    margin-top: -150px;
+    margin-left: 1350px;
+    margin-top: -390px;
 }
 
 .category-pants {
@@ -69,15 +70,46 @@ a {
 }
 
 .category-socks {
-    margin-left: 1450px;
-    margin-top: -150px;
+    margin-left: 1350px;
+    margin-top: -375px;
 }
 
 .deal1 {
     margin-left: 150px;
+    margin-top: -50px;
 }
 
 .deal2 {
-    margin-left: 1450px;
-    margin-top: -150px;
+    margin-left: 1350px;
+    margin-top: -400px;
+}
+
+.category-hats img {
+    width: 300px;
+    height: auto;
+}
+
+.category-shirts img {
+    width: 200px;
+    height: auto;
+}
+
+.category-pants img {
+    width: 300px;
+    height: auto;
+}
+
+.category-socks img {
+    width: 250px;
+    height: auto;
+}
+
+.deal1 img {
+    width: 300px;
+    height: auto;
+}
+
+.deal2 img {
+    width: 300px;
+    height: auto;
 }
