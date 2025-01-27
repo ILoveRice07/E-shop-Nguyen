@@ -76,12 +76,12 @@ a {
 
 .deal1 {
     margin-left: 150px;
-    margin-top: -50px;
+    margin-top: 70px;
 }
 
 .deal2 {
     margin-left: 1350px;
-    margin-top: -400px;
+    margin-top: -370px;
 }
 
 .category-hats img {
@@ -110,6 +110,10 @@ a {
 }
 
 .deal2 img {
-    width: 300px;
+    width: 250px;
     height: auto;
+}
+
+#about {
+    margin-top: 50px;
 }
