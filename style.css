@@ -1,7 +1,3 @@
-body {
-    background-color: #222831;
-}
-
 
 a {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -28,36 +24,36 @@ a {
 .slogan-under-carousel {
     text-align: center;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: #76ABAE;
+    color:#1B4965;
     margin: 30px;
 }
 
 .goals {
     text-align: center;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: #EEEEEE;
+    color: #5FA8D3;
     margin: 30px;
  }
 
 
 #categories {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: #EEEEEE;
+    color: #1B4965;
 }
 
 #deals {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: #EEEEEE;
+    color: #1B4965;
 }
 .clothing-categories, .deals-text {
-    color: #76ABAE;
+    color: #1B4965;
     text-align: center;
     margin: 30px;
 }
 
 #about {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: #76ABAE;
+    color: #1B4965;
     text-align: center;
 }
 
@@ -126,25 +122,26 @@ a {
 .about-info {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
-    color:#76ABAE;
+    color:#1B4965;
 }
 
 .text-info-page {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
-    color:#EEEEEE;
+    color:#5FA8D3;
+    font-size: larger;
     margin: 30px;
 }
 
 .contacts-info {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
-    color:#76ABAE;
+    color:#1B4965;
 }
 
 .add-mail-tel {
     list-style:none;
-    color:#EEEEEE;
+    color:#5FA8D3;
     margin-left: 50px;
 }
 
@@ -154,4 +151,79 @@ a {
     margin-left: 645px;
     margin-top: -120px;
     margin-bottom: 100px;
+}
+
+.title-products {
+    text-align: center;
+    color:#1B4965
+}
+
+.img-products {
+    height: 400px;
+    width: auto;
+    margin-left: 115px;
+}
+
+.price {
+    font-size: x-large;
+    color: #1B4965;
+    margin-left: 250px;
+}
+
+.btn-buy {
+    color: #1B4965;
+    margin-left: 260px;
+}
+
+
+.hat2 {
+    margin-left: 630px;
+    margin-top: -480px;
+}
+
+.hat3 {
+    margin-left: 1230px;
+    margin-top: -480px;
+}
+
+.shirt1 {
+    margin-top: 100px;
+}
+
+.shirt2 {
+    margin-left: 630px;
+    margin-top: -480px;
+}
+
+.shirt3 {
+    margin-left: 1230px;
+    margin-top: -480px;
+}
+
+.pants1 {
+    margin-top: 100px;
+}
+
+.pants2 {
+    margin-left: 630px;
+    margin-top: -480px
+}
+
+.pants3 {
+    margin-left: 1230px;
+    margin-top: -480px;
+}
+
+.socks1 {
+    margin-top: 100px;
+}
+
+.socks2 {
+    margin-left: 630px;
+    margin-top: -480px
+}
+
+.socks3 {
+    margin-left: 1230px;
+    margin-top: -480px;
 }
